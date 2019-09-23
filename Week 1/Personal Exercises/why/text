@@ -1,0 +1,59 @@
+console.log("hello")
+
+// let number = 5;
+// let num2 = 4;
+// console.log(number + numb2)
+// let x = true
+// let isLogin = 5 < 6;
+// let empty = number === num2;
+// let empty = 5 < 6 || num2 === number;
+// true && false;
+// let empty = !(5 < 6)
+// const x = 5;
+// x + 5;
+// x = 4;
+// cont x = 4;
+
+
+// const input = prompt("type a number");
+// console.log(false)
+
+
+// const goodGreeting = 10
+// // let badGreeting = "goodbye"
+// goodGreeting = 9
+
+
+
+// if(input>2){
+//     console.log(goodGreeting);
+// } else{
+//     console.log ("bye");
+// }
+
+// console.log(goodGreeting)
+// console.log("bye")
+
+
+let firstName = "Danny"
+let lastName = "Brudner"
+
+let fullName = firstName + " " + lastName
+// console.log(fullName)
+
+// let x = "tex"
+
+// if(x === "tex") {
+//     console.log("yaya")
+// } else {
+//     console.log("nooo")
+// }
+
+if(10 == "10" || 5 === 6) {
+    console.log("its equal")
+}else {
+    console.log("not equal")
+
+    
+
+}

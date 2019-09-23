@@ -1,0 +1,22 @@
+
+#bluebox{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    position: relative;
+
+}
+#red1{
+    height: 300px;
+    width: 10px;
+    background-color: red;
+    position: absolute;
+    margin-left:30px;
+}
+#red2{
+    height: 10px;
+    width: 300px;
+    background-color: red;
+    position: absolute;
+    margin-top:30px;
+}
