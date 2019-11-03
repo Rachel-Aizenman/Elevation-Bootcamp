@@ -1,0 +1,53 @@
+{
+    "name": "animals"[
+        {
+            "name": "rhino",
+            "weight": [
+                {
+                    "kilo": 1600,
+                    "tons": 4
+                }
+            ],
+            "origin": "Central Africa",
+            "endandered": true,
+            "diet": ["shoots", "fruits", "grass"],
+            "predators": "leopard",
+            "deliciousness": 3
+        },
+        {
+            "name": "cow",
+            "weight": [
+                {
+                    "kilo": 800,
+                    "tons": 2
+                }
+            ],
+            "origin": "Eastern Europe",
+            "endandered": false,
+            "diet": [
+                {"name": "grass",
+                "percentage": 47}, 
+                {{"name": "corn",
+                    "percentage": 13}, 
+                {{"name": "hay",
+                    "percentage": 40}
+            ],
+            "predators": "wolf",
+            "deliciousness": 5
+        },
+        {
+            "name": "horse",
+            "weight": [
+                {
+                    "kilo": 1200,
+                    "tons": 3
+                }
+            ],
+            "origin": "North Africa",
+            "endandered": false,
+            "diet": ["hay", "oats", "grass"],
+            "predators": "leopard",
+            "deliciousness": 2
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+// Exercise 6
+// Create an object called calculator. 
+
+// It should have two methods: add and subtract
+
+// Both methods take two parameters, and should return the sum/difference of both numbers.
+
+
+const calculator = {
+    add: function (num1, num2) {
+     return num1 + num2
+    }
+    ,
+    subtract: function (num1, num2) {
+     return num1 - num2
+    }
+}
+
+
+
+const result1 = calculator.add(20, 1)
+console.log(result1)
+const result2 = calculator.subtract(30, 9)
+console.log(result2)
+
+console.log(calculator.add(result1, result2)) 
